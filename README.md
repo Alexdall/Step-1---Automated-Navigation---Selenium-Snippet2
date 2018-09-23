@@ -79,7 +79,7 @@ senha = driver.find_element_by_id('pass');
 login.send_keys('your user')
 senha.send_keys('your password')
 
-submit_button = driver.find_elements_by_xpath('//*[@id="loginbutton"]')[0]; 
+submit_button = driver.find_elements_by_xpath('//*[@id="loginbutton"]')[0]
 
 #Now is just submit the information using the click method and <i>voilà</i>, we're in.
 #Now is just submit the information using the click method and <i>voilà</i>, we're in.
