@@ -45,6 +45,7 @@ import time
 #you can find the driver here:
 
 #https://sites.google.com/a/chromium.org/chromedriver/downloads
+
 #you can find more information in the Selenium project's page.
 
 #With Chrome driver installed, we need to set some option in order to run it.
